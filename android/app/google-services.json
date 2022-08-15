@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012180547547",
+    "project_id": "bkc-field-form-c3d04",
+    "storage_bucket": "bkc-field-form-c3d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012180547547:android:ff0637e71272b318e6d9fe",
+        "android_client_info": {
+          "package_name": "co.bkc.fieldform.bkc_field_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012180547547-a07he5useq7p1fv224gu580ps0selklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23bcA4seRtk7dFP3meEqCt8muIL5IOqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012180547547-a07he5useq7p1fv224gu580ps0selklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
